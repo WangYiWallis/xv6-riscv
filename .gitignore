@@ -17,4 +17,3 @@ user/usys.S
 .gdbinit
 .vscode/
 .cache/
-compile_commands.json
